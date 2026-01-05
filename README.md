@@ -1,36 +1,23 @@
-📊 Python Data Analysis Projects
-📌 Project Overview
+# 📊 Python Data Analysis Projects
 
-This repository contains beginner-to-intermediate Python projects focused on analyzing real-world datasets.
-The emphasis is on transforming cleaned data into insights through exploration, statistics, and visualization.
+## 📌 Project Overview
+This repository contains beginner-to-intermediate Python projects focused on analyzing real-world datasets. The emphasis is on transforming cleaned data into insights through exploration, statistics, and visualization.
 
 Each notebook follows a structured analysis workflow similar to what junior data analysts use in real projects.
 
-🧠 Business Questions Addressed
+## 🧠 Business Questions Addressed
+- What trends and patterns exist in the data?
+- How do key variables relate to each other?
+- What does the data reveal through summary statistics?
+- Which insights are most relevant for decision-making?
+- How can results be clearly communicated through visuals?
 
-Across the projects in this repository, the analysis focuses on questions such as:
-
-What trends and patterns exist in the data?
-
-How do key variables relate to each other?
-
-What does the data reveal through summary statistics?
-
-Which insights are most relevant for decision-making?
-
-How can results be clearly communicated through visuals?
-
-🛠️ Tools & Technologies
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Jupyter Notebook
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 🔍 Analysis Tasks Performed
 
