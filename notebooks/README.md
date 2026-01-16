@@ -1,6 +1,4 @@
-.
-
-📊 Notebook Portfolio Overview
+#📊 Notebook Portfolio Overview
 
 This folder contains Jupyter notebooks demonstrating practical, job-ready exploratory data analysis (EDA) using Python.
 Each notebook follows a business-oriented workflow: understanding the problem, analyzing the data, and communicating insights clearly.
@@ -9,15 +7,15 @@ Each notebook follows a business-oriented workflow: understanding the problem, a
 
 These notebooks align with Junior Data Analyst and Graduate Analyst roles by demonstrating:
 
-End-to-end exploratory data analysis (EDA)
+- End-to-end exploratory data analysis (EDA)
 
-Data cleaning and validation using Pandas
+- Data cleaning and validation using Pandas
 
-Frequency, aggregation, and trend analysis
+- Frequency, aggregation, and trend analysis
 
-Insight generation for business decision-making
+- Insight generation for business decision-making
 
-Clear communication of findings using markdown and visualizations
+- Clear communication of findings using markdown and visualizations
 
 📁 Notebooks Included
 🔹 Sales Performance Analysis
@@ -29,23 +27,23 @@ Analyze retail sales data to understand revenue drivers, product performance, an
 
 Key Skills Demonstrated:
 
-Data cleaning and preparation
+- Data cleaning and preparation
 
-Revenue and unit sales analysis
+- Revenue and unit sales analysis
 
-Time-based trend analysis
+- Time-based trend analysis
 
-Data visualization with Matplotlib
+- Data visualization with Matplotlib
 
-Translating results into business recommendations
+- Translating results into business recommendations
 
 Key Outcomes:
 
-Identified top revenue-contributing products
+- Identified top revenue-contributing products
 
-Highlighted misalignment between unit sales and revenue
+- Highlighted misalignment between unit sales and revenue
 
-Generated actionable insights for inventory and sales planning
+- Generated actionable insights for inventory and sales planning
 
 🔹 Employee Salary Exploratory Data Analysis
 
@@ -56,40 +54,40 @@ Explore employee salary patterns across departments and experience levels to sup
 
 Key Skills Demonstrated:
 
-Dataset validation and inspection
+- Dataset validation and inspection
 
-Frequency and percentage analysis using value_counts
+- Frequency and percentage analysis using value_counts
 
-Salary distribution analysis
+- Salary distribution analysis
 
-Insight communication using structured markdown
+- Insight communication using structured markdown
 
 Key Outcomes:
 
-Revealed workforce distribution across departments
+- Revealed workforce distribution across departments
 
-Identified dominant experience levels
+- Identified dominant experience levels
 
-Highlighted salary concentration patterns and potential HR insights
+- Highlighted salary concentration patterns and potential HR insights
 
 🛠 Tools & Technologies Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Matplotlib (for visualizations)
+- Matplotlib (for visualizations)
 
 🚀 How These Notebooks Are Used
 
 These notebooks are designed to:
 
-Showcase practical data analysis skills to recruiters
+- Showcase practical data analysis skills to recruiters
 
-Demonstrate clear analytical thinking and communication
+- Demonstrate clear analytical thinking and communication
 
-Serve as reusable templates for similar business problems
+- Serve as reusable templates for similar business problems
 
 ⭐ This notebooks collection supports my GitHub portfolio and demonstrates hands-on readiness for Junior Data Analyst roles.
