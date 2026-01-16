@@ -1,16 +1,15 @@
 # Vera Nhema Kinya – Data Analyst Portfolio
 
-## 🚀 Portfolio Summary (30-Second Read)
-I am a Junior Data Analyst with a strong foundation in Applied Statistics and IT.  
-My portfolio demonstrates hands-on experience in:
+🚀 **Portfolio Summary (30-Second Read)**  
+I am a Junior Data Analyst with a strong foundation in Applied Statistics and IT. My portfolio demonstrates hands-on experience in:
 
-- Cleaning and preparing real-world datasets
-- Performing exploratory data analysis (EDA)
-- Writing SQL queries to answer business questions
-- Creating clear visualizations and Excel reports
-- Translating data into actionable insights
+- Cleaning and preparing real-world datasets  
+- Performing exploratory data analysis (EDA)  
+- Writing SQL queries to answer business questions  
+- Creating clear visualizations and Excel reports  
+- Translating data into actionable insights  
 
-All projects follow a practical, **job-oriented data analysis workflow**.
+All projects follow a practical, job-oriented data analysis workflow.
 
 ---
 
@@ -24,7 +23,6 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 ---
 
 ## 🔧 Skills & Tools
-
 **Programming & Querying:** Python, SQL  
 **Data Analysis:** Pandas, NumPy, Excel  
 **Visualization & Reporting:** Matplotlib, Seaborn, Excel Charts  
@@ -35,60 +33,48 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 
 ## 📌 Featured Projects
 
-### 1. Employee Salary Exploratory Data Analysis
+### 1️⃣ [Employee Salary Exploratory Data Analysis](notebooks/employee_salary_eda.ipynb)
 **Objective:** Explore employee salary patterns across departments and experience levels.  
 
 **Key Skills Demonstrated:**
-- Data cleaning and preparation
-- Exploratory Data Analysis (EDA)
-- Frequency and percentage analysis using Pandas
-- Insight communication with markdown
+- Data cleaning & preparation  
+- Exploratory Data Analysis (EDA)  
+- Frequency and percentage analysis  
+- Insight communication with markdown  
 
 **Tools:** Python, Pandas, Jupyter Notebook  
-
-**Next Steps:** Groupby analysis, salary and revenue trend exploration  
-
-**Repository:** `notebooks/employee_salary_eda.ipynb`  
+**Next Steps:** Groupby analysis, salary and revenue trend exploration
 
 ---
 
-### 2. Sales Data Analysis Project
+### 2️⃣ [Sales Performance Analysis](notebooks/sales_performance_analysis.ipynb)
 **Objective:** Explore retail sales data to uncover revenue trends, product performance, and actionable business insights.  
 
 **Key Analyses:**
-- Revenue by product
-- Sales trends over time
+- Revenue by product ![Revenue by Product](visuals/revenue_by_product.png)  
+- Sales trends over time ![Sales Trend](visuals/sales_trend.png)  
 - Units sold comparison  
 
 **Key Insights:**
-- High-value products drive most revenue
-- Unit sales and revenue do not always align
+- High-value products drive most revenue  
+- Unit sales and revenue do not always align  
 - Time-based analysis reveals sales variability  
 
-**Conclusion:** Demonstrates ability to **clean data, perform EDA, create clear visualizations, and translate data into business insights**  
-
-**Repository:** `notebooks/01_sales_data_analysis.ipynb`  
+**Conclusion:** Demonstrates ability to clean data, perform EDA, create clear visualizations, and translate data into business insights  
 
 ---
 
-### 3. Python Data Cleaning Project
+### 3️⃣ [Python Data Cleaning Project](python-data-cleaning-project)  
 **Objective:** Clean raw datasets to make them analysis-ready.  
 **Skills:** Handling missing values, duplicates, formatting, and incorrect data types  
-**Repository:** `python-data-cleaning-project`  
 
----
-
-### 4. SQL Data Analysis Practice
+### 4️⃣ [SQL Data Analysis Practice](sql-data-analysis-practice)  
 **Objective:** Write SQL queries to answer real business questions.  
 **Skills:** Filtering, joining, aggregation, grouping, and reporting  
-**Repository:** `sql-data-analysis-practice`  
 
----
-
-### 5. Statistics for Data Analysis
+### 5️⃣ [Statistics for Data Analysis](statistics-for-data-analysis)  
 **Objective:** Apply descriptive statistics and probability to interpret datasets.  
 **Skills:** Analytical thinking, statistical reasoning, insight generation  
-**Repository:** `statistics-for-data-analysis`  
 
 ---
 
@@ -110,11 +96,9 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 ---
 
 ## 📫 Connect With Me
-📧 Email: [veranhemakinya@gmail.com](mailto:veranhemakinya@gmail.com)  
+📧 Email: veranhemakinya@gmail.com  
 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
 💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
 🐦 X (Twitter): [@veranhema](https://twitter.com/veranhema)  
 
----
-
-⭐ This GitHub profile documents my **learning journey** and showcases **practical projects aligned with entry-level and junior data analyst roles**.
+⭐ This GitHub profile documents my learning journey and showcases practical projects aligned with entry-level and junior data analyst roles.
