@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vera Nhema Kinya – Data Analyst Portfolio
 
 🚀 **Portfolio Summary (30-Second Read)**  
@@ -111,3 +112,28 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 🐦 X (Twitter): [@veranhema](https://twitter.com/veranhema)  
 
 ⭐ This GitHub profile documents my learning journey and showcases practical projects aligned with entry-level and junior data analyst roles.
+=======
+# Sales Data Analysis Project
+
+## Overview
+This project explores a retail sales dataset using Python to uncover revenue trends, product performance, and actionable business insights.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Key Analyses
+- Revenue by product
+- Sales trends over time
+- Units sold comparison
+
+## Key Insights
+- High-value products drive most revenue
+- Unit sales and revenue do not always align
+- Time-based analysis reveals sales variability
+
+## Conclusion
+This project demonstrates my ability to clean data, perform exploratory analysis, create clear visualizations, and translate data into business insights.
+>>>>>>> 560549a (Fix notebook data paths and clean project structure)
