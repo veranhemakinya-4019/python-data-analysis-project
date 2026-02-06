@@ -2,7 +2,8 @@
 
 Vera Nhema Kinya | Junior Data Analyst
 
-🚀 **Professional Summary**  
+## 🚀 Professional Summary
+ 
 Junior Data Analyst with a strong academic background in Applied Statistics and Information Technology. Experienced in data cleaning, exploratory data analysis (EDA), SQL querying, statistical analysis, and data visualization using Python, Excel, and Power BI–ready workflows.
 
 This portfolio demonstrates hands-on experience analyzing real-world datasets, answering business questions, and translating data into actionable insights using industry-standard tools.
@@ -22,13 +23,12 @@ I specialize in transforming raw, messy data into structured insights through da
 ---
 
 ## 🛠 Technical Skills
-Programming & Query Languages
-
+### Programming & Query Languages
 - Python (Pandas, NumPy)
-
 - SQL (SELECT, WHERE, GROUP BY, JOIN, AGGREGATIONS)
 
-Data Analysis & Manipulation
+
+### Data Analysis & Manipulation
 
 - Data cleaning and preprocessing
 
@@ -38,7 +38,7 @@ Data Analysis & Manipulation
 
 - Trend analysis
 
-Data Visualization & Reporting
+### Data Visualization & Reporting
 
 - Matplotlib, Seaborn
 
@@ -46,7 +46,7 @@ Data Visualization & Reporting
 
 - Insight communication
 
-Statistics
+### Statistics
 
 - Descriptive statistics
 
@@ -54,7 +54,7 @@ Statistics
 
 - Analytical reasoning
 
-Tools & Workflow
+### Tools & Workflow
 
 - Git, GitHub
 
@@ -64,20 +64,15 @@ Tools & Workflow
 ---
 
 ## 📌 Featured Projects
-
 ### 1️⃣ Employee Salary Exploratory Data Analysis
+**Objective:** Analyze employee salary distributions across departments and experience levels to identify patterns and trends.
 
-Objective: Analyze employee salary distributions across departments and experience levels to identify patterns and trends.
 
-Key Responsibilities & Skills
-
+**Key Responsibilities & Skills**
 - Cleaned and prepared raw employee data
-
 - Performed exploratory data analysis (EDA)
-
 - Conducted frequency and percentage analysis
-
-- Summarized findings using clear markdown documentation
+- Summarized findings using markdown documentation
 
 Tools: Python, Pandas, Jupyter Notebook
 Keywords: Data cleaning, EDA, salary analysis, descriptive statistics
